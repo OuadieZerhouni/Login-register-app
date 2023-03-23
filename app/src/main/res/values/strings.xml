@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="OR">-OR-</string>
+    <string name="Sign_in_with">Sign in with</string>
+    <string name="DHAA">Don\'t have an account?</string>
+    <string name="HAA">have an account?</string>
+
+    <string name="Sign_up">Sign up</string>
+    <string name="Email_hint">Enter your Email</string>
+    <string name="Forgot_passwort">Forgot Password</string>
+    <string name="Remember">Remember me</string>
+    <string name="Register">Register</string>
+    <string name="Phone">Phone No</string>
+    <string name="Confirm_pass">Confirm Password</string>
+    <string name="FullName_hint">Enter your Name</string>
+    <string name="Phone_hint">Enter your Phone no</string>
+    <string name="Password_hint">Enter your Password</string>
+    <string name="Confirm_hint">Confirm Password</string>
+    <string name="FullName">Full Name</string>
+
+
+
+
+
+
+    <!-- New string resource -->
+    <string name="welcome_message">Welcome to My App!</string>
+
+
+</resources>
