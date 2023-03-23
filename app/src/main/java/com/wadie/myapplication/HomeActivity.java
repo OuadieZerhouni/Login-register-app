@@ -1,2 +1,12 @@
-package com.wadie.myapplication;public class HomeActivity {
+package com.wadie.myapplication;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+public class HomeActivity extends Activity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_home);}
 }

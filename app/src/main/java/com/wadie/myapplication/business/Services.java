@@ -5,7 +5,7 @@ import com.wadie.myapplication.models.User;
 import java.util.List;
 
 public interface Services {
-    User addUser(String fullName, String email, String password, int id, String phone);
+    User addUser(String fullName, String email, String password, String phone);
     User updateUser(User user);
     User deleteUser(User user);
     List<User> getAllUsers();
