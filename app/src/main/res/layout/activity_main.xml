@@ -151,7 +151,7 @@
         android:layout_height="wrap_content"
         android:background="@color/white"
         android:text="@string/Login"
-        android:textColor="@color/white"
+        android:textColor="@color/light_blue"
         app:circularflow_radiusInDP="30dp"
         app:layout_constraintBottom_toTopOf="@+id/textView2"
         app:layout_constraintEnd_toEndOf="@+id/email_input"
